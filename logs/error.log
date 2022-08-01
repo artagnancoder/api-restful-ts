@@ -1,0 +1,11 @@
+2022-07-19 11:14:23 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-19 11:14:23 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2022-07-19 11:16:26 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-20 10:11:51 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:12:17 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:12:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:15:28 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d555555" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:16:45 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d55" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:44:21 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:44:24 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:44:25 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m

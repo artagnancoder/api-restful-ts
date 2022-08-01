@@ -1,0 +1,119 @@
+2022-07-19 11:11:56 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:13:44 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 11:13:44 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:14:23 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-19 11:14:23 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2022-07-19 11:14:23 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:14:31 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 11:14:31 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:16:09 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 11:16:09 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:16:18 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 11:16:18 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 11:16:26 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-19 11:16:36 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 11:16:36 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:07:48 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:07:48 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:09:16 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:09:16 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:09:24 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:09:24 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:09:38 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:09:38 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:10:14 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:10:14 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 14:11:06 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 14:11:06 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:03:11 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:03:11 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:03:40 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:03:40 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:11:04 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:11:04 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:11:35 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:11:35 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:12:22 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:12:22 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:13:44 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:13:44 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 15:56:21 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 15:56:21 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:43:15 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:43:15 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:44:56 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:44:56 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:48:31 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:48:31 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:50:34 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:50:34 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:51:53 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:51:53 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-19 16:54:14 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-19 16:54:14 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 09:15:38 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 09:15:38 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:03:15 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:03:15 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:03:35 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:03:35 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:04:32 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:04:32 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:05:38 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:05:38 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:06:51 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:06:51 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:10:54 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:10:54 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:11:51 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:12:14 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:12:14 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:12:17 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:12:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d0000" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:14:14 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:14:14 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:15:28 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d555555" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:16:13 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:16:13 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:16:45 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62d70c75bba81ec1d155c2d55" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:24:02 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:24:02 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:24:26 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:24:26 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:24:57 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:24:57 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:25:29 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:25:29 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:33:15 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:33:15 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:35:53 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:35:53 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:36:09 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:36:09 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:40:57 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:40:57 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:43:40 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:43:40 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:44:21 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:44:24 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:44:25 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Movie"[39m
+2022-07-20 10:46:29 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:46:29 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:50:46 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:50:46 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:51:44 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:51:44 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:52:04 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:52:04 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:52:39 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:52:39 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 10:53:01 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 10:53:01 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 11:00:22 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 11:00:22 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 11:00:42 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 11:00:42 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-07-20 11:05:01 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-07-20 11:05:01 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m
+2022-08-01 14:14:10 - [32minfo[39m: [32mConectou ao banco de dados.[39m
+2022-08-01 14:14:10 - [32minfo[39m: [32mA aplicação está rodando na porta 3000[39m

@@ -1,0 +1,10 @@
+//Esse middleware irá lidar com todas as validações do sistema. Ele irá pegar todos os erros gerados por validações, enviar de volta para a rota e impedir a criação/alteração de algum dado.
+
+import { Request, Response, NextFunction } from 'express'
+import { validationResult } from 'express-validator'
+
+export const validate = (req: Request, res: Response, next: NextFunction) => {
+
+    //função que irá puxar todos os erros gerados por uma requisição.
+    const errors = validationResult(req)
+}
